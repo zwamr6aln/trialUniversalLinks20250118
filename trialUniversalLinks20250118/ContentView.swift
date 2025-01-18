@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  trialUniversalLinks20250118
-//
-//  Created by FullName241111 on 2025/01/18.
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -17,8 +10,4 @@ struct ContentView: View {
         }
         .padding()
     }
-}
-
-#Preview {
-    ContentView()
 }
