@@ -16,6 +16,11 @@
 			path = trialUniversalLinks20250118;
 			sourceTree = "<group>";
 		};
+		1D9B62082D3B461900C58942 /* .well-known */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ".well-known";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		1D9B61EB2D3B44AB00C58942 = {
 			isa = PBXGroup;
 			children = (
+				1D9B62082D3B461900C58942 /* .well-known */,
 				1D9B61F62D3B44AB00C58942 /* trialUniversalLinks20250118 */,
 				1D9B61F52D3B44AB00C58942 /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				1D9B61F62D3B44AB00C58942 /* trialUniversalLinks20250118 */,
+				1D9B62082D3B461900C58942 /* .well-known */,
 			);
 			name = trialUniversalLinks20250118;
 			packageProductDependencies = (
