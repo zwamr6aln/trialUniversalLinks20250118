@@ -5,6 +5,7 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:zwamr6aln.github.io</string>
+		<string>applinks:zwamr6aln.github.io?mode=developer</string>
 	</array>
 </dict>
 </plist>
