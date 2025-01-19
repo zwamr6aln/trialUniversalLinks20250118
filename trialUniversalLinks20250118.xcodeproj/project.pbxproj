@@ -359,7 +359,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-3";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-4";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -389,7 +389,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-3";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-4";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -411,14 +411,14 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = tULForWatch;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-3";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-4";
 				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-3.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-4.watchkitapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -443,14 +443,14 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = tULForWatch;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-3";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-4";
 				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-3.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.aaaakkkkssssttttnnnn.trialUniversalLinks20250118-4.watchkitapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
